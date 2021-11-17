@@ -12,9 +12,9 @@ import logo from '../../assets/img/logo.png'; //Logo
 function pageLayout( props ) {
     //EDITABLE
     const deskripsi = "Selamat datang kembali di"
-    const title = "Yogyakarta Blended Learning"
-    const slogan = "Yogyakarta kota pelajar berhati nyaman, membuat para pengais ilmu semangat untuk menggapai kesuksesan. Perjalanan berjuta mil menuju kesuksesan dimulai dengan satu langkah dari kota Yogyakarta."
-    const copyright = "2021 Yogyakarta Blended Learning - Didukung oleh Geschool"
+    const title = "Bukittinggi Blended Learning"
+    const slogan = "Siapa yang menempuh jalan untuk mencari ilmu, maka Allah akan mudahkan baginya jalan menuju surga."
+    const copyright = "2021 Bukittinggi Blended Learning - Didukung oleh Geschool"
 
     return (
         <div>
